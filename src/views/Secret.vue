@@ -1,0 +1,25 @@
+<template>
+  <div id="Secret">
+  Secret</div>
+</template>
+
+<script>
+export default {
+  name: 'Secret',
+  components: {},
+  props: {},
+
+  data() {
+    return {}
+  },
+
+  computed: {},
+  watch: {},
+  mounted() {},
+  methods: {}
+};
+</script>
+
+<style lang="scss" scoped>
+
+</style>

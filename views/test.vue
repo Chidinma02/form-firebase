@@ -1,0 +1,1 @@
+<template> <div id="Test"></div></template><script>export default { name: 'Test', props: {}, components: {}, data() { return {} }, mounted() {}, computed: {}, watch: {}, methods: {},}</script><style lang="scss" scoped></style>
