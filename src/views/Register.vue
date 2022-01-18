@@ -78,6 +78,7 @@ padding:30px;
 margin:20px;
 font-size:21px;
 }
+
 button{
 width:400px;
 height:75px;
